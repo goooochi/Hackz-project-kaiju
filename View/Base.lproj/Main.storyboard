@@ -189,6 +189,7 @@
                         <color key="backgroundColor" red="0.49712962329999999" green="0.88806374249999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <connections>
+                        <outlet property="commentString" destination="Lby-nH-Qxw" id="6Q9-9P-Gbh"/>
                         <outlet property="imageView" destination="uNk-ed-Nig" id="69B-Eu-giQ"/>
                     </connections>
                 </viewController>
